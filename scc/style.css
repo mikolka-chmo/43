@@ -1,0 +1,22 @@
+:root{
+    --background-color:#0D0D0D;
+    --bloxs:#1A1A1A;
+    --hover-color:#B30000;
+    --main-text:#F5F5F5;
+}
+.container{
+    background-color: var(--background-color);
+}
+
+
+
+
+
+
+
+
+body{
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
